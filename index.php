@@ -1,4 +1,4 @@
 <?php
 echo "Hello World!";
-echo "Hello From dev!";
+echo "Hello From stage!";
 ?>
