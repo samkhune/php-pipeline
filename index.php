@@ -1,4 +1,4 @@
 <?php
 echo "Hello World!";
-echo "Hello from master";
+echo "hello from dev!";
 ?>
