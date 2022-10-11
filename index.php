@@ -6,4 +6,5 @@ echo "good morning!";
 echo "Hello!";
 echo "Hi!";
 echo "Good Evening";
+echo "Hello friend";
 ?>
