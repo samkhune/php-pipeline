@@ -1,6 +1,6 @@
 <?php
-echo "Hello World!"."\n".;
-echo "hello from dev!"."\n".;
+echo "Hello World!";
+echo "hello from dev!";
 echo "Edit from monitoring!\n";
 echo "good morning!\n";
 echo "Hello!\n";
